@@ -1,3 +1,87 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+##############################
+# --- Hugo configuration --- #
+##############################
+
+### https://gohugo.io/getting-started/configuration/
+
+baseURL = "https://m-paolino.github.com"
+title = "Paolino"
+theme = "hugo-coder"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+paginate = 20
+
+enableEmoji = true
+enableGitInfo = false
+
+cleanDestinationDir = true
+
+##############################
+# --- Theme configuration ---#
+##############################
+
+### https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Paolo Minniti"
+info = ["Data Scientist Jr @ Accenture", "MSc Computer Science and Engineering - AI & ML @ PoliMI", "Digital Transformation enthusiast & Tech addicted"]
+description = "Paolino's portfolio"
+keywords = "blog, developer, personal, tech, data science, ai, machine learning, big data, data visualization, python, sql"
+
+avatarURL = "img/avatar.PNG"
+favicon_32 = "img/favicon-32x32.png"
+favicon_16 = "img/favicon-16x16.png"
+touchIcon = "img/apple-touch-icon.png"
+
+since = "2017"
+dateFormat = "Jan, 2006"
+# dateFormat = "2006-01-02"
+
+maxSeeAlsoItems = 5
+
+colorScheme = "auto" # "auto" or "light" or "dark"
+hideColorSchemeToggle = false
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+### Social links
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 1
+    url = "https://www.linkedin.com/in/paolo-minniti"
+    target = "_blank"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/m-paolino"
+    target = "_blank"
+
+[[params.social]]
+    name = "Mail"
+    icon = "fa fa-envelope fa-2x"
+    weight = 3
+    url = "mailto:paolo.minniti.94@gmail.com"
+    # target = "_blank"
+
+### Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "about/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url = "projects/"
