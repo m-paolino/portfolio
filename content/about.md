@@ -22,7 +22,7 @@ If you want to get in touch, feel free to drop me a [Whatsapp](https://wa.me/393
 
 ### Projects :dart:
 
-One of the first projects is about a script able to stop the awful startup chime of Mac. For more info and more projects reach out the [project](/projects) section.
+One of the first projects is about a script able to stop the awful startup chime of Mac. For more info and more projects reach out the [project](../projects/) section.
 
 ---
 
