@@ -39,9 +39,9 @@ One of the first projects is about a script able to stop the awful startup chime
 
 ### Hobbies and interests :game_die:
 
-Following a number of sci-fi or comedy genre **movies** and **TV shows** (check out my [TV Time profile](https://www.tvtime.com/it/user/47571880/profile)) when forced indoors.\
+Following a number of sci-fi or comedy genre **movies** and **TV shows** (check out my [TV Time](https://www.tvtime.com/it/user/47571880/profile) profile) when forced indoors.\
 Aspiring **chef**, and spending a large amount of my free time reading mystery genre **books** and exploring the latest **technology advancements** in Artificial Intelligence area.\
-Strong impulse to play **chess** (here is my [Lichess profile](https://lichess.org/@/misterpaolino)) and solve **sudoku** puzzles.
+Strong impulse to play **chess** (here is my [Lichess] (https://lichess.org/@/misterpaolino) profile and old [Chess.com](https://chess.com/member/misterpaolino) profile) and solve **sudoku** puzzles.
 
 <!-- Sport and travel -->
 
