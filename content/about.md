@@ -7,7 +7,7 @@ draft: false
 
 ### Background :cowboy_hat_face:
 
-My name is Paolo Minniti (call me *Paolino*!) and I'm from Sicily, the largest Mediterranean island in Italy. I have a bachelor's degree in **Computer Science & Engineering** and a master of science in **Artificial Intelligence & Machine Learning**, both achieved from the [Politecnico di Milano](https://polimi.it). I currently work as **Data Scientist jr.** at [Accenture](https://accenture.com/it-it) in Milan and as tester of software and digital services in spare time, with an eye on the latest **technology advancements** in *Artificial Intelligence* area.\
+My name is Paolo Minniti (call me *Paolino*!) and I'm from Sicily, the largest Mediterranean island in Italy. I have a bachelor's degree in **Computer Science & Engineering** and a master of science in **Artificial Intelligence & Machine Learning**, both achieved from the [Politecnico di Milano](https://polimi.it). I currently work as **Data Scientist jr.** at [Accenture](https://accenture.com/it-it) in Milan and as tester of software and digital services in spare time, with an eye on the latest **technology advancements** in *Artificial Intelligence* area.
 
 I aim to push myself to the next level, from small everyday problems to more complicated tasks. If I'm not getting better then I'm getting worse, my journey is one of persistence and resilience.
 I am sure we humans have the potential to learn something new through daily life challenges and to further the overall self-improvement. The main goal is to be better today than yesterday, with a plan to become even better tomorrow!
