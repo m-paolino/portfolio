@@ -1,5 +1,5 @@
 ---
-title: "Stopchime"
+title: "StopChime"
 date: 2017-10-01
 draft: false
 ---
