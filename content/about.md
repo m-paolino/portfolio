@@ -20,7 +20,7 @@ In the landing page you'll find the main profile links (Linkedin, GitHub and mai
 
 ### Projects :dart:
 
-One of the first projects is about a script able to stop the awful startup chime of Mac. For more info and more projects reach out the [project](../projects/) section.
+One of the first projects is about a script able to stop the awful startup chime of Mac. For more info and more projects reach out the [this](../projects/) section.
 
 ---
 
