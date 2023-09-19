@@ -1,10 +1,7 @@
 ---
 title: "Testbirds"
 date: 2020-05-01
-draft: false
+draft: true
 ---
 
 `WORK IN PROGRESS`
-
-<!--
-Status: -->

@@ -1,10 +1,7 @@
 ---
 title: "Tryber (former AppQuality)"
 date: 2018-09-01
-draft: false
+draft: true
 ---
 
 `WORK IN PROGRESS`
-
-<!--
-Status: -->
