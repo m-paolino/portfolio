@@ -4,10 +4,10 @@ date: 2017-12-01
 draft: false
 ---
 
-Some useful Atom packages concerning the syntax highlighting
+Developed some useful packages for **Atom.io** editor related to syntax highlighting, especially for *.AMPL* and *.SRT* files.
 
-`WORK IN PROGRESS`
+> The Atom package management has been discontinued since late 2022 making these extensions unavailable. [Here](https://github.blog/2022-06-08-sunsetting-atom/) is the official statement.
 
-<!--
-Status: stop
-As for now Atom is shut down but you can check the code in my github profile -->
+AMPL syntax highlighting: [GitHub repo](https://github.com/m-paolino/atom-package-language-ampl-syntax)
+
+SRT syntax highlighting: [GitHub repo](https://github.com/m-paolino/atom-package-language-subriptext)
