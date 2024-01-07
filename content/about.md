@@ -7,10 +7,10 @@ draft: false
 
 ### Background :cowboy_hat_face:
 
-My name is Paolo Minniti (call me *Paolino*!) and I'm from Sicily, the largest Mediterranean island in Italy. I have a bachelor's degree in **Computer Science & Engineering** and a master of science in **Artificial Intelligence & Machine Learning**, both achieved from the [Politecnico di Milano](https://polimi.it). I currently work as **Data Scientist jr.** at [Accenture](https://accenture.com/it-it) in Milan and as tester of software and digital services in spare time, with an eye on the latest **technology advancements** in *Artificial Intelligence* area.
+My name is Paolo Minniti, but you can call me *Paolino*! I hail from Sicily, the largest Mediterranean island in Italy. I hold a bachelor's degree in **Computer Science & Engineering** and a master of science in **Artificial Intelligence & Machine Learning**, both achieved from the [Politecnico di Milano](https://polimi.it). I am currently serving as **Junior Data Scientist** at [Accenture](https://accenture.com/it-it) in Milan, keeping a keen eye on the latest **tech advancements** in *Artificial Intelligence*.
 
-I aim to push myself to the next level, from small everyday problems to more complicated tasks. If I'm not getting better then I'm getting worse, my journey is one of persistence and resilience.
-I am sure we humans have the potential to learn something new through daily life challenges and to further the overall self-improvement. The main goal is to be better today than yesterday, with a plan to become even better tomorrow!
+My personal philosophy revolves around constantly challenging myself, from tackling small everyday problems to handling more complex tasks. I firmly believe that if I'm not progressing, I'm regressing. My journey is characterized by persistence and resilience.
+I am sure we humans have the potential to learn something new through daily life challenges and to further the overall self-improvement. The ultimate goal is to be better today than yesterday, with a strategic plan for continuous improvement.
 
 #### TOP-PERFORMER • SELF-DETERMINED • TECH PASSIONATE
 
@@ -20,7 +20,7 @@ In the landing page you'll find the main profile links (Linkedin, GitHub and mai
 
 ### Projects :dart:
 
-One of the first projects is about a script able to stop the awful startup chime of Mac. For more info and more projects reach out the [this](../projects/) section.
+One of my initial projects is a script designed to silence the awful Mac startup chime. For more info and more projects reach out the [this](../projects/) section.
 
 ---
 
@@ -37,8 +37,8 @@ One of the first projects is about a script able to stop the awful startup chime
 
 ### Hobbies and interests :game_die:
 
-Outside of work, I do like to spend time reading mystery or self-help genre books and following a number of sci-fi or comedy genre movies and TV shows (check out my [TV Time](https://www.tvtime.com/it/user/47571880/profile) profile).\
-Aspiring chef and strong impulse to play chess (here is my [Lichess](https://lichess.org/@/misterpaolino) profile and old [Chess.com](https://chess.com/member/misterpaolino) profile), to play sudoku puzzles and to watch motorsport races.\
+Outside of work, I enjoy reading mystery and self-help books, indulging in sci-fi and comedy movies and TV shows (check out my [TV Time](https://www.tvtime.com/it/user/47571880/profile) profile).\
+Aspiring chef and strong impulse for chess (here is my [Lichess](https://lichess.org/@/misterpaolino) profile and old [Chess.com](https://chess.com/member/misterpaolino) profile), sudoku puzzles and motorsport races fan.\
 In my free time, I love to spend time with my family and friends, work out (I am a little obsessed), and I am a big fan of amateur sports with other people.
 Lastly, loving to discover and venture into new places around the world, bringing me the real adventure and thrill.
 
@@ -68,4 +68,4 @@ Lastly, loving to discover and venture into new places around the world, bringin
 
 ---
 
-Anyways, welcome to my website...one of my most procrastinated projects. I hope you can get something of value out of the content I share here. Keep an eye out for more, and I'll keep myself honest about sharing some thoughts with you all. Until next time!
+Welcome to my website — a project I've procrastinated on for quite some time. I hope you find value in the content I share. Stay tuned for more, and I'll ensure to keep the conversation going. Until next time!
