@@ -33,7 +33,7 @@ info = ["Data Scientist Jr @ Accenture", "Tech addicted"]
 description = "Paolino's portfolio"
 keywords = "blog, developer, personal, tech, data science, ai, machine learning, big data, data visualization, python, sql"
 
-avatarURL = "img/avatar.PNG"
+avatarURL = "img/avatar-new.heic"
 favicon_32 = "img/favicon-32x32.png"
 favicon_16 = "img/favicon-16x16.png"
 touchIcon = "img/apple-touch-icon.png"
